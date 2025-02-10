@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Factory;
 
 public class PizzaStore {
     PizzaFactory factory;

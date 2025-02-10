@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Factory;
 
 public class GreekPizza implements Pizza {
     @Override

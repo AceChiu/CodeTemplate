@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Strategy;
 
 public class CreditCard {
     private int amount;

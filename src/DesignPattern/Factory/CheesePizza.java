@@ -1,4 +1,4 @@
-package DesignPattern;
+package DesignPattern.Factory;
 
 public class CheesePizza implements Pizza {
     @Override
